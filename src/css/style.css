@@ -84,6 +84,11 @@ button {
     cursor: pointer;
 }
 
+button:hover,
+.theme-switcher:hover {
+    opacity: 0.7;
+    transition: all 0.3s;
+}
 
 .theme-dot {
     height: 13px;
