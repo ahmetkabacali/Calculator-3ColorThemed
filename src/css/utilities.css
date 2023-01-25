@@ -1,0 +1,58 @@
+:root {
+    /* ### Theme 1 */
+    /* #### Backgrounds */
+    --darkBlueMBg: hsl(222, 26%, 31%);
+    --darkBlueTBg: hsl(223, 31%, 20%);
+    --darkBlueSBg: hsl(224, 36%, 15%);
+
+    /* #### Keys */
+    --darkbluekeybackground: hsl(225, 21%, 49%);
+    --darkbluekeyshadow: #404e72;
+    --redkeybg: hsl(6, 63%, 50%);
+    --reddarkshadow: hsl(6, 70%, 34%);
+    --LightOrangekeyBg: hsl(30, 25%, 89%);
+    --GrayishOrangekeyshadow: hsl(28, 16%, 65%);
+
+    /* #### Text */
+    --darkgrayishblueText: hsl(221, 14%, 31%);
+
+    /* ************************************************************************* */
+
+    /* ### Theme 2 */
+
+    /* #### Backgrounds */
+    --LightgrayMBg: hsl(0, 0%, 90%);
+    --lightGrayTBg: hsl(0, 5%, 81%);
+    --VerylightgraySBg: hsl(0, 0%, 93%);
+
+    /* #### Keys */
+    --Darkcyanbg: hsl(185, 42%, 37%);
+    --Verydarkcyankey: hsl(185, 58%, 25%);
+    --Orangebg: hsl(25, 98%, 40%);
+    --Darkorangekey: hsl(25, 99%, 27%);
+    --Lightyellow: hsl(45, 7%, 89%);
+    --Darkorange: hsl(35, 11%, 61%);
+
+    /* #### Text */
+    --Verydarkrayishyellow: hsl(60, 10%, 19%);
+
+    /* ************************************************************************* */
+
+    /* ### Theme 3 */
+
+    /* #### Backgrounds */
+    --Verydarkvioletmbg: hsl(268, 75%, 9%);
+    --Veryarkviolettbg: hsl(268, 71%, 12%);
+
+    /* #### Keys */
+    --Darkvioletbackground: hsl(281, 89%, 26%);
+    --Vividmagentashadow: hsl(285, 91%, 52%);
+    --Purecyanbackground: hsl(176, 100%, 44%);
+    --Softcyanshadow: hsl(177, 92%, 70%);
+    --Verydarkvioletbackground: hsl(268, 47%, 21%);
+    --Darkmagentashadow: hsl(290, 70%, 36%);
+
+    /* #### Text */
+    --Lightyellow: hsl(52, 100%, 62%);
+    --Verydarkblue: hsl(198, 20%, 13%);
+}

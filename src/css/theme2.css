@@ -1,0 +1,47 @@
+body {
+    background-color: var(--LightgrayMBg);
+}
+
+.header-container {
+    color: var(--Verydarkrayishyellow);
+}
+
+.theme-switcher {
+    background-color: var(--GrayishredTBg);
+}
+
+.theme-dot {
+    background-color: var(--Orangebg);
+}
+
+.screen {
+    color: var(--Verydarkrayishyellow);
+    background-color: white;
+}
+
+.numpad-wrapper {
+    background-color: var(--lightGrayTBg);
+}
+
+.numpad-wrapper button {
+    background-color: var(--VerylightgraySBg);
+    color: var(--Verydarkrayishyellow);
+    box-shadow: 0px 3px 0px 0px var(--Darkorange);
+}
+
+.reset,
+.del {
+    background-color: var(--Darkcyanbg) !important;
+    box-shadow: 0px 3px 0px 0px var(--Verydarkcyankey) !important;
+    color: white !important;
+}
+
+.equal {
+    background-color: var(--redkeybg) !important;
+    box-shadow: 0px 3px 0px 0px var(--Orangebg) !important;
+    color: white !important;
+}
+
+.attribution {
+    color: rgb(200, 13, 13);
+}

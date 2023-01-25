@@ -1,0 +1,42 @@
+body {
+    background-color: var(--Verydarkvioletmbg);
+}
+
+.header-container {
+    color: var(--Lightyellow);
+}
+
+.theme-switcher {
+    background-color: var(--Veryarkviolettbg);
+}
+.theme-dot {
+    background-color: var(--Purecyanbackground);
+}
+
+.screen {
+    color: var(--Lightyellow);
+    background-color: var(--Veryarkviolettbg);
+}
+
+.numpad-wrapper {
+    background-color: var(--Veryarkviolettbg);
+}
+
+.numpad-wrapper button {
+    background-color: var(--Verydarkvioletbackground);
+    color: var(--Lightyellow);
+    box-shadow: 0px 3px 0px 0px var(--Darkvioletbackground);
+}
+
+.reset,
+.del {
+    background-color: var(--Darkvioletbackground) !important;
+    box-shadow: 0px 3px 0px 0px var(--Darkmagentashadow) !important;
+    color: white !important;
+}
+
+.equal {
+    background-color: var(--Purecyanbackground) !important;
+    box-shadow: 0px 3px 0px 0px var(--Softcyanshadow) !important;
+    color: var(--Verydarkblue) !important;
+}

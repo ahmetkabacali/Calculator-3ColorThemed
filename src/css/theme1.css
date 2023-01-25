@@ -1,0 +1,43 @@
+body {
+    background-color: var(--darkBlueMBg);
+}
+
+.header-container {
+    color: white;
+}
+
+.theme-switcher {
+    background-color: var(--darkBlueTBg);
+}
+.theme-dot {
+    background-color: var(--redkeybg);
+
+}
+
+.screen {
+    color: white;
+    background-color: var(--darkBlueSBg);
+}
+
+.numpad-wrapper {
+    background-color: var(--darkBlueTBg);
+}
+
+.numpad-wrapper button {
+    background-color: var(--LightOrangekeyBg);
+    color: var(--darkgrayishblue-Text);
+    box-shadow: 0px 3px 0px 0px var(--GrayishOrangekeyshadow);
+}
+
+.reset,
+.del {
+    background-color: var(--darkbluekeybackground) !important;
+    box-shadow: 0px 3px 0px 0px var(--darkbluekeyshadow) !important;
+    color: white !important;
+}
+
+.equal {
+    background-color: var(--redkeybg) !important;
+    box-shadow: 0px 3px 0px 0px var(--reddarkshadow) !important;
+    color: white !important;
+}
